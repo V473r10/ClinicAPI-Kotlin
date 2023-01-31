@@ -1,0 +1,1 @@
+rootProject.name = "V473r10.clinicapi-kotlin"
